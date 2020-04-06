@@ -93,7 +93,7 @@ h2 {
 	background-color: #F7F7F7;
 	margin-top: 50px;
 	padding-top: 20px;
-	background-image: url('img/central-bg-top.png');
+	background-image: url('central-bg-top.png');
 	background-repeat: repeat-x;
 }
 
@@ -124,7 +124,7 @@ h2 {
 	top: 0;
 	left: 120px;
 	padding-left: 15px;
-	background-image: url('img/time.png');
+	background-image: url('time.png');
 	background-repeat: no-repeat;
 }
 
@@ -133,7 +133,7 @@ h2 {
 	top: 0;
 	left: 180px;
 	padding-left: 15px;
-	background-image: url('img/comments.png');
+	background-image: url('comments.png');
 	background-repeat: no-repeat;
 }
 
@@ -189,7 +189,7 @@ h2 {
 	position: absolute;
 	left: 115px;
 	bottom: 0;
-	background-image: url('img/white-clock.png');
+	background-image: url('white-clock.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
@@ -253,7 +253,7 @@ h2 {
 	position: absolute;
 	left: 72px;
 	bottom: 27px;
-	background-image: url('img/time.png');
+	background-image: url('time.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
@@ -262,7 +262,7 @@ h2 {
 	position: absolute;
 	left: 136px;
 	bottom: 27px;
-	background-image: url('img/comments.png');
+	background-image: url('comments.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
@@ -313,7 +313,7 @@ h2 {
 	position: absolute;
 	left: 115px;
 	top: 12px;
-	background-image: url('img/white-clock.png');
+	background-image: url('white-clock.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
@@ -383,7 +383,7 @@ h2 {
 	position: relative;
 	left: 90px;
 	top: -14px;
-	background-image: url('img/time.png');
+	background-image: url('time.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
@@ -393,7 +393,7 @@ h2 {
 	position: relative;
 	left: 155px;
 	top: -28px;
-	background-image: url('img/comments.png');
+	background-image: url('comments.png');
 	background-repeat: no-repeat;
 	padding-left: 15px;
 }
